@@ -1,2 +1,1 @@
-# .github
-welcome to the world of tomorrow!
+# welcome to src horse
