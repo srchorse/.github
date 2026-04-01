@@ -1,5 +1,3 @@
-# welcome to srchorse
-
 - [srchorse](https://github.com/srchorse/srchorse): A PHP source-forensics project that imports the `php/php-src` C and header tree into MySQL as a tokenized corpus, then reconstructs and validates files from the database. It includes tooling for cloning/resetting source trees, importing tokens, snapshotting the database, querying lexeme usage, and rewriting stored tokens.
 
 - [forensic](https://github.com/srchorse/forensic): A single-binary C11 filesystem forensics and normalization tool that sweeps a target directory through hashing, git relocation, category routing, token analysis, in-file path refactoring, duplicate cleanup, and pattern grouping. It is designed to flatten and reorganize mixed file trees into structured per-category folders with live progress logging.
