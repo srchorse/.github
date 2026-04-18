@@ -4,6 +4,4 @@
 
 - [patcher](https://github.com/srchorse/patcher): A workflow for cloning upstream language runtimes, describing modifications as modular specs, generating ordered patch sets, and building patched binaries. The current example centers on an `adaptogen` PHP language experiment that adds an `(adapt)` cast and a companion caching runtime service.
 
-- [os](https://github.com/srchorse/os): The repo builds a custom Ubuntu 24.04 Cinnamon image branded as Ubuntu Src Horse, with desktop theming, a full development workstation stack, local services, firewall defaults, and first-boot installers for components that cannot be cleanly installed inside Cubic.
-
 - [meepa](https://github.com/srchorse/meepa): A small PHP word-generator experiment that assembles pronounceable nonsense words from configurable consonant and vowel fragments. The repo is minimal and focused on the generation script plus its phoneme library.
