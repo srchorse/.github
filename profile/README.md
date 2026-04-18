@@ -4,4 +4,6 @@
 
 - [patcher](https://github.com/srchorse/patcher): A workflow for cloning upstream language runtimes, describing modifications as modular specs, generating ordered patch sets, and building patched binaries. The current example centers on an `adaptogen` PHP language experiment that adds an `(adapt)` cast and a companion caching runtime service.
 
+- [gizmo](https://github.com/srchorse/gizmo): A small Twig-powered PHP generator that precomputes compiled C binaries from a tiny input space. It renders per-configuration C source and `Makefile` templates, compiles binaries on demand, executes each configuration once to materialize cached outputs, and reuses those generated artifacts on later passes.
+
 - [meepa](https://github.com/srchorse/meepa): A small PHP word-generator experiment that assembles pronounceable nonsense words from configurable consonant and vowel fragments. The repo is minimal and focused on the generation script plus its phoneme library.
